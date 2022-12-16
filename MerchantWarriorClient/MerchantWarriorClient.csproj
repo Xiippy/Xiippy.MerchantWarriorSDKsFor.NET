@@ -8,5 +8,32 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Collections.Specialized" Version="4.3.0" />
   </ItemGroup>
-
+<PropertyGroup>
+    <PackageId>Xiippy.MerchantWarriorSDKsFor.NET</PackageId>
+    <Title>Xiippy's MerchantWarrior SDKs For .NET</Title>
+    <Version>1.0.0.0</Version>
+    <PackageTags>Xiippy.MerchantWarriorSDKsFor.NET;MerchantWarrior;Payments</PackageTags>
+    <Description>
+Xiippy's MerchantWarrior SDKs For .NET. Copyright 2021 Xiippy.ai. Created by https://Xiippy.ai. the world's first and only multi-patented privacy-preserving data-rich payments provider. Available under MIT license. Documentation is available at https://dox.merchantwarrior.com. Use at your own risk. No warranty provided whatsoever. Not all APIs have been implemented.
+    
+	
+    </Description>
+    <ReleaseNotes>Required for processing payments using the Merchant Warrior gateway</ReleaseNotes>
+    <Authors>https://Xiippy.ai</Authors>
+    <Owners>https://Xiippy.ai</Owners>
+    <Copyright>Copyright 2021 Xiippy.ai</Copyright>
+    <License>MIT</License>
+    <PackageOutputPath>bin\Package</PackageOutputPath>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Xiippy.ai</Company>
+    <PackageProjectUrl>https://xiippy.ai</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Xiippy/Xiippy.MerchantWarriorSDKsFor.NET</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+<ItemGroup>
+    <!-- ... -->
+    <PackageReference Include="NuGet.Build.Tasks.Pack" PrivateAssets="All" Version="5.2.0" />
+    <!-- ... -->
+  </ItemGroup>
+  
 </Project>
