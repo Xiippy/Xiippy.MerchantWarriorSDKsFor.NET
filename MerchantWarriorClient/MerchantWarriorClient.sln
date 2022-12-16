@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MerchantWarriorClient", "MerchantWarriorClient.csproj", "{E214B5B2-D235-44F5-9602-1AF3D092345B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3890E035-3A5E-413E-8B75-97B8B4CA02AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3890E035-3A5E-413E-8B75-97B8B4CA02AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3890E035-3A5E-413E-8B75-97B8B4CA02AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3890E035-3A5E-413E-8B75-97B8B4CA02AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E214B5B2-D235-44F5-9602-1AF3D092345B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E214B5B2-D235-44F5-9602-1AF3D092345B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E214B5B2-D235-44F5-9602-1AF3D092345B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E214B5B2-D235-44F5-9602-1AF3D092345B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063D88B7-B1B9-41D6-9830-731E8C72A126}
+	EndGlobalSection
+EndGlobal
